@@ -19,6 +19,15 @@
 **☁️ Other Tech:**  
 🧠 Veeva Vault | 📦 Blob Storage
 
+---
+
+🧠 *Curious mind exploring GenAI, automation, and scalable backend systems.*  
+✨ *Always learning. Always building.*  
+📚 *Currently diving deeper into cloud-native architectures, distributed systems, and advanced Python tooling.*  
+🌱 *Excited to explore open-source collaboration, cutting-edge AI integration, and backend optimization.*
+
+---
+
 <!---
 BackdoorSentient/BackdoorSentient is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
