@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @BackdoorSentient
+# 👋 Hi, I'm @BackdoorSentient
 
 🚀 **Software Developer | Backend & GenAI Engineer**  
 💼 3+ years of experience building **scalable, high-performance backend systems** using **Python** and **FastAPI**, primarily in **health tech**.
@@ -7,7 +7,7 @@ I focus on writing **clean, reliable, and production-ready code** — with a str
 
 ---
 
-## 🧠 What I’m Currently Working On
+## 🧠 What I'm Currently Working On
 
 - 🤖 **GenAI-powered backend services** using **FastAPI + LangChain + LangGraph**
 - 📄 Document ingestion pipelines (PDFs, text, images)
@@ -98,17 +98,23 @@ I focus on writing **clean, reliable, and production-ready code** — with a str
 ## 📊 GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BackdoorSentient&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BackdoorSentient&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Let’s Connect
+## 💡 LeetCode
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/aniketwaichal?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/u/aniketwaichal/)
+
+---
+
+## 📫 Let's Connect
 
 - 💼 Open to backend & GenAI collaborations
 - 🧠 Interested in health-tech, AI tooling, and scalable systems
 - 🌍 Exploring impactful open-source contributions
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aniket-waichal-53a05b3b0/)
 - 📧 [aniketwaichal60@gmail.com](mailto:aniketwaichal60@gmail.com)
+- 💡 [LeetCode](https://leetcode.com/u/aniketwaichal/)
 
 ✨ *Always learning. Always building.*
