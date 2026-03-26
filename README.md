@@ -108,7 +108,7 @@ I focus on writing **clean, reliable, and production-ready code** — with a str
 - 💼 Open to backend & GenAI collaborations
 - 🧠 Interested in health-tech, AI tooling, and scalable systems
 - 🌍 Exploring impactful open-source contributions
-- 🔗 [LinkedIn](https://linkedin.com/in/aniketwaichal)
-- 📧 [Email ID](aniketwaichal60@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aniket-waichal-53a05b3b0/)
+- 📧 [aniketwaichal60@gmail.com](mailto:aniketwaichal60@gmail.com)
 
 ✨ *Always learning. Always building.*
