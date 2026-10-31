@@ -61,12 +61,6 @@ I focus on writing **clean, reliable, and production-ready code** — with a str
 - Deployed as a **FastAPI** service on **Google Cloud Run**, with **AWS S3** and **AWS Lambda** powering async jobs and LLM-assisted data mapping
 - Stack: **Python, FastAPI, LangGraph, LangChain, Claude, PostgreSQL/pgvector, Vertex AI, AWS (S3, Lambda), Docker**
 
-### 🔹 GenAI HealthTech Platforms
-- Built **LLM-powered advisory APIs** using **FastAPI + LangChain**
-- Designed **agentic workflows** with **LangGraph**
-- Implemented **RAG pipelines** for medical & enterprise documents
-- Added guardrails, prompt versioning, and response validation
-
 ### 🔹 AIAdvisor — Johnson & Johnson
 - Contributed to a next-gen GenAI platform built on **AbioAId**, supporting multiple healthcare products with improved multi-turn conversations and RAG workflows
 - Developed AI-powered services using **FastAPI** for product-specific chatbot flows, automation triggers, and scalable API endpoints
