@@ -92,17 +92,6 @@ I focus on writing **clean, reliable, and production-ready code** — with a str
 - Integrated **Blob Storage** for product image management
 - Handled deployments, defect resolution, and support
 
-### 🔹 Document Intelligence Pipeline
-- PDF ingestion → text & image extraction
-- Chunking + embeddings + vector search
-- Modular RAG pipelines using **LangChain**
-- Designed for **large-scale, unstructured data**
-
-### 🔹 AI Automation Services
-- Scheduled background jobs using APScheduler
-- Web automation & scraping pipelines
-- Data cleaning, transformation, and analytics
-
 ---
 
 ## 🤖 GenAI Focus Areas
